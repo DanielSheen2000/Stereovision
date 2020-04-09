@@ -1,0 +1,10 @@
+This is a stereovision assignment for my 2nd year engineering course, ESC204 (Praxis III).
+The goal of this assignment was to create a 3D model based off of a binocular stereovision system from images obtained from http://vision.middlebury.edu/stereo/data/scenes2014/
+The 5 jupyter notebook files contain my finalized code to create a disparity map and upload a .pfm file, from which cvkit can create a 3D model. 
+My 3D model with associated calib.txt file is in the folder, "3D Model"
+The Disparity maps obtained from my Final.ipynb, Laplacian.ipynb, Sobel_X.ipynb, and Sobel_Y.ipynb are in the folder, "Disparity Maps"
+The original data is in the folder, "perf"
+
+A finalized report of my findings and discussion are found in, "3.2 3D Vision with 2D cameras_Daniel Sheen.docx"
+
+A video of my finalized 3D model can be found in "3.2_3D model.mp4"
